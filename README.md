@@ -10,5 +10,3 @@ Nothing really challenging but I wonder if I can actually call the same Java fun
 ![alt tag](https://github.com/wct0324/TipCalculator/blob/master/Walkthrough_20141110.gif)
 
 
-![alt tag](https://github.com/wct0324/SimpleTodo/blob/master/Walkthrough_20141103.gif)
-
